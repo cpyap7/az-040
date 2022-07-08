@@ -1,0 +1,19 @@
+6 different powershell profile:
+
+Current user, current host - console
+$home\documents and settings\windowspowershell\profile.ps1
+
+Current User - All Hosts
+$home\My documents\profile.ps1
+
+All Users , Current Host - console
+$pshome\microsoft.powershell_profile.ps1
+
+All Users, All host
+$pshome\profile.ps1
+
+Current user, current host - ISE
+$home\my documents\windowspowershell\Microsoft.PowershellISE_profile.ps1
+
+All Users, Current host - ISE
+$pshome\micrsoft.powershellISE_profile.ps1
